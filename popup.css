@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    padding: 5px;
+    width: 230px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+
+/* // "options": {
+    //     "proxyConfig": "src/proxy.conf.json"
+    // }, */
+
+#colorGrid {
+    display: block;
+    height: 20px;
+    width: 20px;
+}
+
+#coloValue {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.colorInfo {
+    margin-top: 20px;
+    display: flex;
+}
+
+button {
+    padding: 0.4rem 1rem;
+    font-size: 0.9rem;
+    font-variant: stacked-fractions;
+    cursor: pointer;
+    font-stretch: condensed;
+    font-style: italic;
+    font-weight: bold;
+    background: yellow;
+    border: 2px solid rgb(0 0 0 / 81%);
+    border-radius: 0%;
+}
